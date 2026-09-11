@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ivory Trace — A private migraine journal",
-  description: "A quieter way to remember the days that matter.",
+  title: "MigraLoom — Your migraine story, ready for the appointment",
+  description: "Capture migraine episodes in seconds and turn them into a calm timeline and visit-ready summary.",
   other: {
     "codex-preview": "development",
   },
