@@ -4,9 +4,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "MigraLoom — Your migraine story, ready for the appointment",
   description: "Capture migraine episodes in seconds and turn them into a calm timeline and visit-ready summary.",
-  other: {
-    "codex-preview": "development",
-  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
